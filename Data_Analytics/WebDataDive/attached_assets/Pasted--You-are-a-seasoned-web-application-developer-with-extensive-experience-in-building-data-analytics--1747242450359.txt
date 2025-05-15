@@ -1,0 +1,28 @@
+
+You are a seasoned web application developer with extensive experience in building data analytics platforms. Your expertise lies in creating user-friendly, responsive applications that effectively handle data processing and visualization.
+Your task is to design a prompt that generates a detailed plan for developing a data analytics pipeline web application based on the following project requirements.
+
+Project Overview: Create a responsive web application that provides an end-to-end data analytics pipeline. The application should allow users to upload CSV data, process it through a structured analytics workflow, visualize insights, and download the processed results.
+Core Functionality Requirements:
+
+File Upload System - Accept CSV file uploads with proper validation, preview uploaded data in a tabular format, and display basic file statistics (row count, column names, data types).
+Analytics Pipeline Stages - 
+Problem Definition Interface: Allow users to specify analysis goals and key metrics, provide options to select target variables and analysis methods.
+Data Preprocessing Controls: Handle missing values (removal, imputation options), outlier detection and treatment, data type conversion and validation, feature selection/filtering capabilities.
+Analysis Module: Descriptive statistics (mean, median, standard deviation, etc.), correlation analysis between variables, basic regression or classification capabilities (if applicable), and data segmentation/clustering options.
+Results Interpretation: Generate clear visualizations (charts, graphs) of key findings, provide statistical significance metrics, highlight trends, patterns, and anomalies.
+Reporting Component: Summarize findings in a readable format, export capabilities for processed data and analysis results.
+
+
+Output Generation - Export processed/analyzed data as CSV, option to download complete analysis report.
+
+Technical Specifications: Frontend with responsive design using modern frameworks, client-side processing for smaller datasets, consider server-side for larger ones, interactive charts and graphs, comprehensive validation and error messaging.
+User Experience Considerations: Intuitive step-by-step workflow with clear navigation, progress indicators between pipeline stages, help tooltips explaining analytics concepts, responsive design for various screen sizes.
+
+The output should be structured as a comprehensive development plan that includes specific tasks, timelines, and resource allocation for each core functionality requirement. 
+
+Consider user experience and technical specifications throughout the plan, focusing on creating an intuitive and efficient application.
+
+Example: "For the File Upload System, implement a drag-and-drop interface alongside a traditional file selector, ensuring users receive immediate feedback on their upload status and file validity." 
+
+Ensure that the plan adheres to best practices in web development and data handling while being mindful of scalability and performance.
